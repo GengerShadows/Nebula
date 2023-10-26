@@ -1,5 +1,5 @@
 {
-  "sendgrid_verification": false,
+  "sendgrid_verification": true,
   "sendgrid_options": {
     "api_key": "YOUR_SENDGRID_API_KEY",
     "sendFromEmail": "THE EMAIL THE CODES WILL BE SENT FROM (MUST BE VERIFIED IN SENDGRID)",
